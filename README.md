@@ -1,2 +1,2 @@
-# Smart-Factory-Dashboard
-Smart Factory frontend engineer assessment
+git clone https://github.com/your-username/smart-factory-dashboard.git
+cd smart-factory-dashboard
